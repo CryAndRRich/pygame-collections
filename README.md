@@ -1,2 +1,2 @@
-# Pygame-Collections
-Keeping a few small Pygame projects
+# Py Collections
+Keeping a few small fun projects

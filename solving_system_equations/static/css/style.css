@@ -1,0 +1,49 @@
+#create-text {
+    width: 230px;
+}
+
+#create-text, #create-button, #method, #submit-button{
+    font-size: 18px;
+    padding: 10px;
+    margin: 8px;
+    border: 1.5px solid white;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#create-text:hover, #create-button:hover, #method:hover, #submit-button:hover {
+    border-color: #1eff00;
+}
+
+#equation {
+    display: flex;
+    margin: 5px;
+}
+
+.error {
+    font-size: 20px;
+    margin: 5px;
+    color: red;
+}
+
+#entry {
+    width: 25px;
+    height: 20px;
+    margin: 5px 3px 5px 8px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#entry:hover {
+    border-color: #1eff00;
+}
+
+#variable {
+    line-height: 0px;
+    font-family: sans-serif;
+    color: white;
+}

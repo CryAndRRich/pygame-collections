@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.body-container {
+    color: white;
+    padding: 20px;
+    
+    background: linear-gradient(#000000, #000000) padding-box, linear-gradient(
+            var(--angle),
+            #ffffff,
+            #ec705a,
+            #ff0000
+        ) border-box;
+    animation: 3s rotate linear infinite;
+}
+
+p {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
